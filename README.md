@@ -26,4 +26,4 @@ To assign 10 delivery tasks to 5 couriers such that:
 Divya Rajagopal
 
 ## Inspired By
-Optimization use cases in logistics and delivery assignments like those handled by Wolt's logistics team.
+Optimization use cases in logistics and delivery assignments like those handled by logistics team.
